@@ -74,6 +74,6 @@
 
 ### 💻 Source Code
 
-- 🔗 [Chapter 2 Starter Code]()
+- 🔗 [Chapter 2 Starter Code](https://github.com/gitdagray/css_course/tree/main/02_lesson_starter)
 
 
