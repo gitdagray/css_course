@@ -51,6 +51,13 @@
 
 - 🔗 [MDN: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - 🔗 [MDN: CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- 🔗 [MDN: Applying Color to HTML Elements using CSS](https://developer.mozilla.org/en-US/docs/Web/HTML/Applying_color)
+
+### 📚 Color Resources: 
+- 🔗 [Coolors Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5)
+- 🔗 [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
+- 🔗 [Coolors Palette Generator](https://coolors.co/)
+- 🔗 [HTML Color Codes](https://htmlcolorcodes.com/)
 
 
 ### 🖼️ Image Resources:
@@ -75,5 +82,6 @@
 ### 💻 Source Code
 
 - 🔗 [Chapter 2 Starter Code](https://github.com/gitdagray/css_course/tree/main/02_lesson_starter)
+- 🔗 [Chapter 3 Starter Code](https://github.com/gitdagray/css_course/tree/main/03_lesson_starter)
 
 
