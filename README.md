@@ -45,6 +45,7 @@
 - 🔗 [vscode-icons VS Code Extension](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 - 🔗 [Github Themes VS Code Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 - 🔗 [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+- 🔗 [Specificity Calculator](https://specificity.keegan.st/)
 
 
 ### 📚 References
