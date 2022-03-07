@@ -58,6 +58,7 @@
 
 ### 📚 Typography Resources:
 - 🔗 [MDN: Fundamental Text and Font Styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
+- 🔗 [CSSFontStack.com: Websafe Fonts](https://www.cssfontstack.com/)
 
 ### 📚 Color Resources: 
 - 🔗 [Coolors Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5)
