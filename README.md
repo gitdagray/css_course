@@ -55,10 +55,12 @@
 - 🔗 [MDN: Applying Color to HTML Elements using CSS](https://developer.mozilla.org/en-US/docs/Web/HTML/Applying_color)
 - 🔗 [MDN: CSS Values and Units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
 - 🔗 [MDN: The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
+- 🔗 [MDN: Styling Lists](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists)
 
 ### 📚 Typography Resources:
 - 🔗 [MDN: Fundamental Text and Font Styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
 - 🔗 [CSSFontStack.com: Websafe Fonts](https://www.cssfontstack.com/)
+- 🔗 [MDN: Styling Links](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links)
 
 ### 📚 Color Resources: 
 - 🔗 [Coolors Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5)
@@ -93,5 +95,8 @@
 - 🔗 [Chapter 4 Starter Code](https://github.com/gitdagray/css_course/tree/main/04_lesson_starter)
 - 🔗 [Chapter 5 Starter Code](https://github.com/gitdagray/css_course/tree/main/05_lesson_starter)
 - 🔗 [Chapter 6 Starter Code](https://github.com/gitdagray/css_course/tree/main/06_lesson_starter)
+- 🔗 [Chapter 7 Starter Code](https://github.com/gitdagray/css_course/tree/main/07_lesson_starter)
+- 🔗 [Chapter 8 Starter Code](https://github.com/gitdagray/css_course/tree/main/08_lesson_starter)
+- 🔗 [Chapter 9 Starter Code](https://github.com/gitdagray/css_course/tree/main/09_lesson_starter)
 
 
