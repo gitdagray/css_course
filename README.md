@@ -56,6 +56,8 @@
 - 🔗 [MDN: CSS Values and Units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
 - 🔗 [MDN: The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
 - 🔗 [MDN: Styling Lists](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists)
+- 🔗 [MDN: Display Property](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
+- 🔗 [MDN: Floats](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats)
 
 ### 📚 Typography Resources:
 - 🔗 [MDN: Fundamental Text and Font Styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
@@ -98,5 +100,7 @@
 - 🔗 [Chapter 7 Starter Code](https://github.com/gitdagray/css_course/tree/main/07_lesson_starter)
 - 🔗 [Chapter 8 Starter Code](https://github.com/gitdagray/css_course/tree/main/08_lesson_starter)
 - 🔗 [Chapter 9 Starter Code](https://github.com/gitdagray/css_course/tree/main/09_lesson_starter)
+- 🔗 [Chapter 10 Starter Code](https://github.com/gitdagray/css_course/tree/main/10_lesson_starter)
+- 🔗 [Chapter 11 Starter Code](https://github.com/gitdagray/css_course/tree/main/11_lesson_starter)
 
 
