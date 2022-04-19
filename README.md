@@ -46,6 +46,7 @@
 - 🔗 [Github Themes VS Code Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 - 🔗 [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 - 🔗 [Specificity Calculator](https://specificity.keegan.st/)
+- 🔗 [HTML Special Characters](https://unicode-table.com)
 
 
 ### 📚 References
@@ -58,11 +59,14 @@
 - 🔗 [MDN: Styling Lists](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists)
 - 🔗 [MDN: Display Property](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
 - 🔗 [MDN: Floats](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats)
+- 🔗 [MDN: Basic Concepts of MultiCol](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Columns/Basic_Concepts_of_Multicol)
+- 🔗 [MDN: Margin Collapsing](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing)
 
 ### 📚 Typography Resources:
 - 🔗 [MDN: Fundamental Text and Font Styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
 - 🔗 [CSSFontStack.com: Websafe Fonts](https://www.cssfontstack.com/)
 - 🔗 [MDN: Styling Links](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links)
+- 🔗 [MDN: White-Space](https://developer.mozilla.org/en-US/docs/Web/CSS/white-space)
 
 ### 📚 Color Resources: 
 - 🔗 [Coolors Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5)
@@ -102,5 +106,6 @@
 - 🔗 [Chapter 9 Starter Code](https://github.com/gitdagray/css_course/tree/main/09_lesson_starter)
 - 🔗 [Chapter 10 Starter Code](https://github.com/gitdagray/css_course/tree/main/10_lesson_starter)
 - 🔗 [Chapter 11 Starter Code](https://github.com/gitdagray/css_course/tree/main/11_lesson_starter)
+- 🔗 [Chapter 12 Starter Code](https://github.com/gitdagray/css_course/tree/main/12_lesson_starter)
 
 
