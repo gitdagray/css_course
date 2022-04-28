@@ -61,6 +61,7 @@
 - 🔗 [MDN: Floats](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats)
 - 🔗 [MDN: Basic Concepts of MultiCol](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Columns/Basic_Concepts_of_Multicol)
 - 🔗 [MDN: Margin Collapsing](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing)
+- 🔗 [MDN: Position](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
 
 ### 📚 Typography Resources:
 - 🔗 [MDN: Fundamental Text and Font Styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
@@ -107,5 +108,7 @@
 - 🔗 [Chapter 10 Starter Code](https://github.com/gitdagray/css_course/tree/main/10_lesson_starter)
 - 🔗 [Chapter 11 Starter Code](https://github.com/gitdagray/css_course/tree/main/11_lesson_starter)
 - 🔗 [Chapter 12 Starter Code](https://github.com/gitdagray/css_course/tree/main/12_lesson_starter)
+- 🔗 [Chapter 13 Starter Code](https://github.com/gitdagray/css_course/tree/main/13_lesson_starter)
+- 🔗 [Chapter 13 Completed Code](https://github.com/gitdagray/css_course/tree/main/13_lesson)
 
 
