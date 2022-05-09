@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  min-height: 100vh;
+
+  display: grid;
+  grid-template-columns: repeat(9, 1fr);
+  grid-auto-rows: 50px auto 50px;
+  grid-template-areas: 
+    "hd hd hd hd hd hd hd hd hd" 
+    "mn mn mn mn mn mn mn sb sb"
+    "ft ft ft ft ft ft ft ft ft";
+    column-gap: 0.5rem;
+}
+
+.el {
+  background-color: rebeccapurple;
+  color: #fff;
+  display: grid;
+  place-content: center;
+}
+
+.header {
+  grid-area: hd;
+}
+
+.sidebar {
+  grid-area: sb;
+  background-color: #00f;
+}
+
+.footer {
+  grid-area: ft;
+}
+
+.container {
+  grid-area: mn;
+  min-height: 400px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr 2fr);
+  grid-auto-rows: minmax(150px, auto);
+  gap: 1rem;
+}
+
+.box {
+  background-color: #000;
+  color: #fff;
+  font-size: 2rem;
+  padding: 0.5rem;
+}
+
+.box:first-child {
+  background-color: #00f;
+  grid-column: 1 / 4;
+  grid-row: 1 / 3;
+
+  display: grid;
+  place-content: center;
+}
+
+.box:nth-child(2) {
+  background-color: purple;
+  grid-column: 1 / 5;
+  grid-row: 3 / 4;
+}
+
+
+
+
+

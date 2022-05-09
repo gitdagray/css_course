@@ -48,6 +48,9 @@
 - 🔗 [Specificity Calculator](https://specificity.keegan.st/)
 - 🔗 [HTML Special Characters](https://unicode-table.com)
 
+### 🕹️ Learning Games
+- 🔗 [Flexbox Froggy](https://flexboxfroggy.com/)
+- 🔗 [CSS Grid Garden](https://cssgridgarden.com/)
 
 ### 📚 References
 
@@ -63,6 +66,8 @@
 - 🔗 [MDN: Margin Collapsing](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing)
 - 🔗 [MDN: Position](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
 - 🔗 [MDN: Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+- 🔗 [MDN: Basic Concepts of Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
+- 🔗 [MDN: Grid Template Areas](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Grid_Template_Areas)
 
 ### 📚 Typography Resources:
 - 🔗 [MDN: Fundamental Text and Font Styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
@@ -113,5 +118,7 @@
 - 🔗 [Chapter 13 Completed Code](https://github.com/gitdagray/css_course/tree/main/13_lesson)
 - 🔗 [Chapter 14 Starter Code](https://github.com/gitdagray/css_course/tree/main/14_lesson_starter)
 - 🔗 [Chapter 14 Completed Code](https://github.com/gitdagray/css_course/tree/main/14_lesson)
+- 🔗 [Chapter 15 Starter Code](https://github.com/gitdagray/css_course/tree/main/15_lesson_starter)
+- 🔗 [Chapter 15 Completed Code](https://github.com/gitdagray/css_course/tree/main/15_lesson)
 
 
