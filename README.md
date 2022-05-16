@@ -47,6 +47,7 @@
 - 🔗 [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 - 🔗 [Specificity Calculator](https://specificity.keegan.st/)
 - 🔗 [HTML Special Characters](https://unicode-table.com)
+- 🔗 [Can I Use](https://caniuse.com/)
 
 ### 🕹️ Learning Games
 - 🔗 [Flexbox Froggy](https://flexboxfroggy.com/)
@@ -68,6 +69,9 @@
 - 🔗 [MDN: Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 - 🔗 [MDN: Basic Concepts of Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
 - 🔗 [MDN: Grid Template Areas](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Grid_Template_Areas)
+- 🔗 [MDN: CSS Images](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images)
+- 🔗 [MDN: CSS Background Images](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Resizing_background_images)
+- 🔗 [Chip Cullen: Content Layout Shift](https://chipcullen.com/what-width-and-height-attributes-to-use-with-responsive-images/)
 
 ### 📚 Typography Resources:
 - 🔗 [MDN: Fundamental Text and Font Styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
@@ -120,5 +124,7 @@
 - 🔗 [Chapter 14 Completed Code](https://github.com/gitdagray/css_course/tree/main/14_lesson)
 - 🔗 [Chapter 15 Starter Code](https://github.com/gitdagray/css_course/tree/main/15_lesson_starter)
 - 🔗 [Chapter 15 Completed Code](https://github.com/gitdagray/css_course/tree/main/15_lesson)
+- 🔗 [Chapter 16 Starter Code](https://github.com/gitdagray/css_course/tree/main/16_lesson_starter)
+- 🔗 [Chapter 16 Completed Code](https://github.com/gitdagray/css_course/tree/main/16_lesson)
 
 
