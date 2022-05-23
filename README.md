@@ -72,6 +72,7 @@
 - 🔗 [MDN: CSS Images](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images)
 - 🔗 [MDN: CSS Background Images](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Resizing_background_images)
 - 🔗 [Chip Cullen: Content Layout Shift](https://chipcullen.com/what-width-and-height-attributes-to-use-with-responsive-images/)
+- 🔗 [MDN: CSS Media Queries](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries)
 
 ### 📚 Typography Resources:
 - 🔗 [MDN: Fundamental Text and Font Styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
@@ -83,8 +84,8 @@
 - 🔗 [Coolors Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5)
 - 🔗 [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
 - 🔗 [Coolors Palette Generator](https://coolors.co/)
+- 🔗 [ColorHub.app Palette Generator](https://colorhub.app/)
 - 🔗 [HTML Color Codes](https://htmlcolorcodes.com/)
-
 
 ### 🖼️ Image Resources:
 - Placeholder Image Generators:
@@ -126,5 +127,7 @@
 - 🔗 [Chapter 15 Completed Code](https://github.com/gitdagray/css_course/tree/main/15_lesson)
 - 🔗 [Chapter 16 Starter Code](https://github.com/gitdagray/css_course/tree/main/16_lesson_starter)
 - 🔗 [Chapter 16 Completed Code](https://github.com/gitdagray/css_course/tree/main/16_lesson)
+- 🔗 [Chapter 17 Starter Code](https://github.com/gitdagray/css_course/tree/main/17_lesson_starter)
+- 🔗 [Chapter 17 Completed Code](https://github.com/gitdagray/css_course/tree/main/17_lesson)
 
 
