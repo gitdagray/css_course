@@ -129,5 +129,7 @@
 - 🔗 [Chapter 16 Completed Code](https://github.com/gitdagray/css_course/tree/main/16_lesson)
 - 🔗 [Chapter 17 Starter Code](https://github.com/gitdagray/css_course/tree/main/17_lesson_starter)
 - 🔗 [Chapter 17 Completed Code](https://github.com/gitdagray/css_course/tree/main/17_lesson)
+- 🔗 [Chapter 18 Starter Code](https://github.com/gitdagray/css_course/tree/main/18_lesson_starter)
+- 🔗 [Chapter 18 Completed Code](https://github.com/gitdagray/css_course/tree/main/18_lesson)
 
 
