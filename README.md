@@ -73,6 +73,9 @@
 - 🔗 [MDN: CSS Background Images](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Resizing_background_images)
 - 🔗 [Chip Cullen: Content Layout Shift](https://chipcullen.com/what-width-and-height-attributes-to-use-with-responsive-images/)
 - 🔗 [MDN: CSS Media Queries](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries)
+- 🔗 [MDN: CSS Pseudo-Classes and Pseudo-Elements](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements)
+- 🔗 [MDN: CSS List of Pseudo-Classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
+- 🔗 [MDN: CSS List of Pseudo-Elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
 
 ### 📚 Typography Resources:
 - 🔗 [MDN: Fundamental Text and Font Styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
@@ -131,5 +134,7 @@
 - 🔗 [Chapter 17 Completed Code](https://github.com/gitdagray/css_course/tree/main/17_lesson)
 - 🔗 [Chapter 18 Starter Code](https://github.com/gitdagray/css_course/tree/main/18_lesson_starter)
 - 🔗 [Chapter 18 Completed Code](https://github.com/gitdagray/css_course/tree/main/18_lesson)
+- 🔗 [Chapter 19 Starter Code](https://github.com/gitdagray/css_course/tree/main/19_lesson_starter)
+- 🔗 [Chapter 19 Completed Code](https://github.com/gitdagray/css_course/tree/main/19_lesson)
 
 
