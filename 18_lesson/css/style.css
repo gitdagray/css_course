@@ -113,9 +113,11 @@ footer {
     flex-flow: row wrap;
     padding: 1rem;
   }
+
   .card {
     width: min(100%, 400px);
   }
+
   .card:last-child {
     order: -1;
   }
@@ -126,12 +128,15 @@ footer {
   nav {
     display: none;
   }
+
   .card {
     width: min(100%, 325px);
   }
+
   .card figure {
     flex-flow: column-reverse;
   }
+
   .card p {
     margin-top: 1rem;
   }
@@ -142,6 +147,7 @@ footer {
   .card {
     width: min(100%, 400px);
   }
+
   .card:nth-child(2) {
     order: -1;
   }
@@ -150,7 +156,8 @@ footer {
 /* || XL  */
 @media screen and (min-width: 1200px) {
   .card {
-    width: min(calc(33% - 1rem), 500px);
+    /* Remove calc() - min() supports math! */
+    width: min(33% - 1rem, 500px);
   }
 }
 
@@ -171,7 +178,8 @@ footer {
   }
 
   .card {
-    width: min(calc(33% - 0.25rem), 200px);
+    /* Remove calc() - min() supports math! */
+    width: min(33% - 0.25rem, 200px);
   }
 
   .card figcaption,
