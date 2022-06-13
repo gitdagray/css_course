@@ -76,6 +76,7 @@
 - 🔗 [MDN: CSS Pseudo-Classes and Pseudo-Elements](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements)
 - 🔗 [MDN: CSS List of Pseudo-Classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 - 🔗 [MDN: CSS List of Pseudo-Elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
+- 🔗 [MDN: CSS Custom Properties (Variables)](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 
 ### 📚 Typography Resources:
 - 🔗 [MDN: Fundamental Text and Font Styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
@@ -136,5 +137,7 @@
 - 🔗 [Chapter 18 Completed Code](https://github.com/gitdagray/css_course/tree/main/18_lesson)
 - 🔗 [Chapter 19 Starter Code](https://github.com/gitdagray/css_course/tree/main/19_lesson_starter)
 - 🔗 [Chapter 19 Completed Code](https://github.com/gitdagray/css_course/tree/main/19_lesson)
+- 🔗 [Chapter 20 Starter Code](https://github.com/gitdagray/css_course/tree/main/20_lesson_starter)
+- 🔗 [Chapter 20 Completed Code](https://github.com/gitdagray/css_course/tree/main/20_lesson)
 
 
