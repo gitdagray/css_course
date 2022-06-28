@@ -78,6 +78,9 @@
 - 🔗 [MDN: CSS List of Pseudo-Elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
 - 🔗 [MDN: CSS Custom Properties (Variables)](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 - 🔗 [MDN: CSS Functions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Functions)
+- 🔗 [MDN: CSS Transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
+- 🔗 [MDN: CSS Transition](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
+- 🔗 [MDN: CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
 
 ### 📚 Typography Resources:
 - 🔗 [MDN: Fundamental Text and Font Styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
@@ -142,5 +145,7 @@
 - 🔗 [Chapter 20 Completed Code](https://github.com/gitdagray/css_course/tree/main/20_lesson)
 - 🔗 [Chapter 21 Starter Code](https://github.com/gitdagray/css_course/tree/main/21_lesson_starter)
 - 🔗 [Chapter 21 Completed Code](https://github.com/gitdagray/css_course/tree/main/21_lesson)
+- 🔗 [Chapter 22 Starter Code](https://github.com/gitdagray/css_course/tree/main/22_lesson_starter)
+- 🔗 [Chapter 22 Completed Code](https://github.com/gitdagray/css_course/tree/main/22_lesson)
 
 

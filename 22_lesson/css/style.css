@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 1.5rem;
+  font-family: 'Nunito', sans-serif;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+main {
+  flex-grow: 1;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+div {
+  width: 200px;
+  height: 200px;
+  border: 1px solid #000;
+  display: grid;
+  place-content: center;
+}
+
+div:first-child {
+  background-color: dodgerblue;
+  /* transform: translateX(-50%); */
+  /* transform: rotateX(180deg); */
+  /* transform: scaleX(120%); */
+  /* transform: skewX(-10deg); */
+}
+
+div:nth-child(2) {
+  background-color: yellow;
+  /* transform: translateY(-2rem); */
+  /* transform: rotateY(180deg); */
+  /* transform: scaleY(120%); */
+  /* transform: skewY(10deg); */
+}
+
+div:last-child {
+  background-color: limegreen;
+  /* transform: translate(100%, -5rem); */
+  /* transform: rotate(78deg); */
+  /* transform: scale(50%, 50%); */
+  /* transform: skew(-10deg, -10deg); */
+}
+
+div:hover {
+  background-color: midnightblue;
+  /* transition-property: background-color, transform;
+  transition-duration: 2s, 3s;
+  transition-delay: 0.5s; 
+  transition-timing-function: linear;*/
+  transition: all 2s 0.5s;
+}
+
+div:last-child:hover {
+  transform: rotate(180deg);
+}
+
+.animate {
+  /* animation-name: slide;
+  animation-duration: 5s;
+  animation-timing-function: ease-in-out;
+  animation-delay: 1s;
+  animation-iteration-count: 2;
+  animation-direction: normal;
+  animation-fill-mode: forwards; */
+  animation: 5s ease-in-out 1s 2 normal forwards slide;
+}
+
+@keyframes slide {
+  0% {
+    transform: translateX(0);
+  }
+
+  33% {
+    transform: translateX(300px) rotate(180deg);
+  }
+
+  66% {
+    transform: translateX(-300px) rotate(-180deg);
+  }
+
+  100% {
+    transform: translateX(0);
+    background-color: rebeccapurple;
+  }
+}
