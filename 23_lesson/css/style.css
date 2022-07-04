@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+
+/* || RESET */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+button {
+  font: inherit;
+}
+
+/* || VARIABLES */
+
+:root {
+  /* COLORS */
+  --HEADER-BGCOLOR: #333;
+  --HEADER-COLOR: whitesmoke;
+}
+
+/* || UTILITY CLASSES */
+
+.underline {
+  text-decoration: underline;
+}
+
+/* || GENERAL STYLES */
+
+html {
+  font-size: 2.5rem;
+  font-family: 'Nunito', sans-serif;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+/* || BLOCKS */
+/* aka components */
+
+.header {
+  background-color: var(--HEADER-BGCOLOR);
+  color: var(--HEADER-COLOR);
+  padding: 1rem 1rem 0.5rem;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+}
+
+.btn {
+  width: 100px;
+  height: 100px;
+  border-radius: 15px;
+}
+
+/* || ELEMENTS */
+/* No standalone meaning - semantically tied to the block */
+/* Does not represent structure, NOT header__nav__btn */
+
+.header__btn {
+  width: 100px;
+  height: 100px;
+  border-radius: 15px;
+}
+
+/* || MODIFIERS */
+/* incremental style changes */
+
+/* Blocks with modifiers */
+.btn--secondary {
+  background-color: yellow;
+}
+
+.btn--lean {
+  transform: skewX(-10deg);
+}
+
+.btn--border-lg {
+  border: 5px solid whitesmoke;
+}
+
+/* Elements with modifiers */
+.header__btn--secondary {
+  background-color: yellow;
+}
+
+.header__btn--lean {
+  transform: skewX(-10deg);
+}
+
+.header__btn--border-lg {
+  border: 5px solid whitesmoke;
+}

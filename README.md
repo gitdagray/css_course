@@ -81,6 +81,9 @@
 - 🔗 [MDN: CSS Transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
 - 🔗 [MDN: CSS Transition](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
 - 🔗 [MDN: CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+- 🔗 [MDN: Organizing Your CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing)
+- 🔗 [Scott O'Hara: Ordering CSS for Everyone](https://modernweb.com/ordering-css/)
+- 🔗 [Get BEM: Introduction](http://getbem.com/introduction/)
 
 ### 📚 Typography Resources:
 - 🔗 [MDN: Fundamental Text and Font Styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
@@ -147,5 +150,5 @@
 - 🔗 [Chapter 21 Completed Code](https://github.com/gitdagray/css_course/tree/main/21_lesson)
 - 🔗 [Chapter 22 Starter Code](https://github.com/gitdagray/css_course/tree/main/22_lesson_starter)
 - 🔗 [Chapter 22 Completed Code](https://github.com/gitdagray/css_course/tree/main/22_lesson)
-
-
+- 🔗 [Chapter 23 Starter Code](https://github.com/gitdagray/css_course/tree/main/23_lesson_starter)
+- 🔗 [Chapter 23 Completed Code](https://github.com/gitdagray/css_course/tree/main/23_lesson)
