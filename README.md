@@ -1,6 +1,6 @@
 # "CSS for Beginners"
 
-### Full Course - ?? Chapters
+### Full Course - 24 Chapters
 
 ---
 
@@ -84,6 +84,8 @@
 - 🔗 [MDN: Organizing Your CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing)
 - 🔗 [Scott O'Hara: Ordering CSS for Everyone](https://modernweb.com/ordering-css/)
 - 🔗 [Get BEM: Introduction](http://getbem.com/introduction/)
+- 🔗 [MDN: Grid and The Danger of Markup Flattening](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_Layout_and_Accessibility#grid_and_the_danger_of_markup_flattening)
+- 🔗 [CanIUse.com: display: contents](https://caniuse.com/?search=display%3A%20contents)
 
 ### 📚 Typography Resources:
 - 🔗 [MDN: Fundamental Text and Font Styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
@@ -152,3 +154,5 @@
 - 🔗 [Chapter 22 Completed Code](https://github.com/gitdagray/css_course/tree/main/22_lesson)
 - 🔗 [Chapter 23 Starter Code](https://github.com/gitdagray/css_course/tree/main/23_lesson_starter)
 - 🔗 [Chapter 23 Completed Code](https://github.com/gitdagray/css_course/tree/main/23_lesson)
+- 🔗 [Chapter 24 Starter Code](https://github.com/gitdagray/css_course/tree/main/24_lesson_starter)
+- 🔗 [Chapter 24 Completed Code](https://github.com/gitdagray/css_course/tree/main/24_lesson)
