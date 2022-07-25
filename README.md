@@ -156,3 +156,8 @@
 - 🔗 [Chapter 23 Completed Code](https://github.com/gitdagray/css_course/tree/main/23_lesson)
 - 🔗 [Chapter 24 Starter Code](https://github.com/gitdagray/css_course/tree/main/24_lesson_starter)
 - 🔗 [Chapter 24 Completed Code](https://github.com/gitdagray/css_course/tree/main/24_lesson)
+
+🚩🚩🚩 
+📺 [Youtube Video for this Bonus Lesson](https://youtu.be/VzkWH7mJpe8)
+- 🔗 [BONUS: Chapter 25 Starter Code](https://github.com/gitdagray/css_course/tree/main/25_lesson_starter-bonus)
+- 🔗 [BONUS: Chapter 25 Completed Code](https://github.com/gitdagray/css_course/tree/main/25_lesson-bonus)
