@@ -158,6 +158,6 @@
 - 🔗 [Chapter 24 Completed Code](https://github.com/gitdagray/css_course/tree/main/24_lesson)
 
 🚩🚩🚩 
-📺 [Youtube Video for this Bonus Lesson](https://youtu.be/VzkWH7mJpe8)
+📺 [Youtube Video for the Bonus Lesson](https://youtu.be/VzkWH7mJpe8)
 - 🔗 [BONUS: Chapter 25 Starter Code](https://github.com/gitdagray/css_course/tree/main/25_lesson_starter-bonus)
 - 🔗 [BONUS: Chapter 25 Completed Code](https://github.com/gitdagray/css_course/tree/main/25_lesson-bonus)
