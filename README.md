@@ -1,6 +1,6 @@
 # "CSS for Beginners"
 
-### Full Course - 24 Chapters
+### Full Course - ~~24~~ 25 Chapters
 
 ---
 
