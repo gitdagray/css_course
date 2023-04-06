@@ -1,0 +1,55 @@
+/* this is css comment */
+/*universal selector - it selects all elements
+should be used for resetting browser defaults */
+*{
+  border: 0;
+}
+
+/*inheritance and general cascading - child elements inherit the most of typograpic (ralated to fonts etc but not borders/margin etc) definitions of parent element except form elements which don't inherit parent elements property by default (rules coming after in sheet will be applied)*/
+main{
+  font-size: medium;
+  font-style: italic;
+}
+article{
+  background-color: papayawhip;
+}
+/*here article is child element so it inherits the properties of parent element i.e. main below p elements inherit properties (typographic) form article and main */
+p{
+  border: 2px solid red;
+  color: purple;
+}
+
+p{
+  border: 3px dotted green;
+  color: red;
+
+  /*these properties will be applied as this ruleset(or rule) is below first p (cascading nature of css) */
+}
+
+/*multiple element selection */
+h1,h2 {
+  font-size: medium;
+}
+
+/*selecting elements with particular class or inside particular parent */
+article .gray{
+ /*selects element with class gray inside article */
+}
+article span{
+  /*selects span inside article */
+}
+
+/*class selector*/
+.gray{
+  color: brown;
+}
+.highlight{
+  background-color: yellow;
+}
+/*specificity - specificity over-rides general cascading as we go on being more specific or rather say closer to element 
+order - element selector < class < id (most specific) */
+
+/*id selector -- more specificity */
+#second {
+  color: green;
+}
