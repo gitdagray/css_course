@@ -1,7 +1,33 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 body {
   padding: 5% 10%;
   font-size: 2rem;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+ol {
+  list-style-type: decimal;
+  padding: 0;
+}
+
+ul {
+  list-style-type: square;
+  list-style-position: inside;
+  text-align: center;
+  color: blue;
+  line-height: 1.6;
+
+  /* list-style: square url('../images/checkmark.png') outside; */
+}
+
+ul li:nth-child(even) {
+  color: red;
+}
+
+ul ::marker {
+  color: red;
+  font-family: fantasy;
+  font-size: 1em;
+  content: 'Only £5 >> ';
 }
