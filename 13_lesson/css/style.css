@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto&family=Lobster&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Lobster&display=swap');
 
 * {
   margin: 0;
@@ -7,7 +7,7 @@
 }
 
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.5rem;
   min-height: 200vh;
 }
@@ -65,17 +65,28 @@ body {
 
 /*//////////////////////////*/
 
-html { scroll-behavior: smooth; }
+html {
+  scroll-behavior: smooth;
+}
 
 section {
   height: 100vh;
 }
 
-.blue { background-color: #00f;}
-.red { background-color: #f00;}
-.green { background-color: green;}
+.blue {
+  background-color: #00f;
+}
 
-header, footer {
+.red {
+  background-color: #f00;
+}
+
+.green {
+  background-color: green;
+}
+
+header,
+footer {
   color: #fff;
   text-align: center;
   height: 100px;
