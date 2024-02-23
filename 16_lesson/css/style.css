@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 
 /* Begin Reset */
 * {
@@ -7,8 +7,10 @@
   box-sizing: border-box;
 }
 
-img { display: block; }
-/* End Reset */ 
+img {
+  display: block;
+}
+/* End Reset */
 
 /* Utility Classes */
 .nowrap {
@@ -23,14 +25,15 @@ img { display: block; }
 /* End Utility Classes */
 
 body {
-  font-family: "Nunito", sans-serif;
+  font-family: 'Nunito', sans-serif;
   min-height: 100vh;
   background-color: aliceblue;
   /* background-image: url("../img/bubbles.png"), linear-gradient(to left, steelblue, #fff);
   background-repeat: repeat-y, no-repeat;
   background-position: right center; */
-  
-  background: repeat-y right center url("../img/bubbles.png"), no-repeat linear-gradient(to left, steelblue, #fff);
+
+  background: repeat-y right center url('../img/bubbles.png'),
+    no-repeat linear-gradient(to left, steelblue, #fff);
   background-size: 20%, auto;
 }
 
@@ -51,7 +54,6 @@ body {
   gap: 30px;
 
   background-color: hsla(0, 0%, 100%, 0.35);
-
 }
 
 .h1 {
@@ -90,12 +92,10 @@ body {
   font-weight: 800;
   font-size: 18rem;
   text-align: center;
-  background-image: url("../img/scenic-2200x1331.png");
+  background-image: url('../img/scenic-2200x1331.png');
   background-size: 100%;
   text-transform: uppercase;
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
 }
-
-
